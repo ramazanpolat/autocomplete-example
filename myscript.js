@@ -1,3 +1,4 @@
+console.log('denemex');
 var demo3 = new autoComplete({
   selector: '#hero-demo',
   minChars: 1,
